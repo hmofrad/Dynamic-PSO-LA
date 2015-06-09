@@ -1,5 +1,5 @@
 # Dynamic-PSO-LA
-Improving Learning Automata based Particle Swarm: An Optimization Algorithm
+Matlab code for Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA) algorithm [1]. 
 
-Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA).
+# [1] 
 

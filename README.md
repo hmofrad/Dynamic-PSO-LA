@@ -1,5 +1,5 @@
 # Dynamic-PSO-LA
-Matlab codes for Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA) algorithm [1]. 
+Matlab codes for Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517&tag=1">[1]</a>.
 
 Abstract
 
@@ -7,6 +7,8 @@ Numerous variations of Particle Swarm Optimization (PSO) algorithms have been re
 
 
 References
+
+
 
 [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Saeed Shiry Ghidary, "Improving learning automata based particle swarm: an optimization algorithm," in 2011 IEEE 12th International Symposium on Computational Intelligence and Informatics (CINTI), 2011, pp. 291–296.
 

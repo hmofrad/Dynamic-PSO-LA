@@ -1,5 +1,5 @@
 # Dynamic-PSO-LA
-<p align="justify"> Matlab codes for Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517&tag=1">[1]</a>. </p>
+<p align="justify"> Matlab codes for Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517&tag=1"  target="_blank">[1]</a>. </p>
 
 <h2><a href="http://cld.persiangig.com/download/hr9C1iZC1o/IEEE-CINTI-2011.pdf/dl" target="_blank">Full Text</a></h2>
 

@@ -1,5 +1,5 @@
 # Dynamic-PSO-LA
-<p align="justify"> Matlab codes for Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517&tag=1"  target="_blank">[1]</a>. </p>
+<p align="justify"> Matlab codes for Dynamic global and local combined Particle Swarm Optimization based on 3-action Learning Automata (DPSOLA) algorithm <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517"  target="_blank">[1]</a>. </p>
 
 <h2><a href="http://cld.persiangig.com/download/hr9C1iZC1o/IEEE-CINTI-2011.pdf/dl" target="_blank">Full Text</a></h2>
 
@@ -10,5 +10,5 @@
 <h2><a id="references" class="anchor" href="#references" aria-hidden="true"><span class="octicon octicon-link"></span></a>References</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Saeed Shiry Ghidary, "<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517&tag=1"  target="_blank">Improving learning automata based particle swarm: an optimization algorithm</a>," in 2011 IEEE 12th International Symposium on Computational Intelligence and Informatics (CINTI), 2011, pp. 291–296.  </p>
+<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Saeed Shiry Ghidary, "<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517"  target="_blank">Improving learning automata based particle swarm: an optimization algorithm</a>," in 2011 IEEE 12th International Symposium on Computational Intelligence and Informatics (CINTI), 2011, pp. 291–296.  </p>
 

@@ -10,5 +10,5 @@
 <h2><a id="references" class="anchor" href="#references" aria-hidden="true"><span class="octicon octicon-link"></span></a>References</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Saeed Shiry Ghidary, "Improving learning automata based particle swarm: an optimization algorithm," in 2011 IEEE 12th International Symposium on Computational Intelligence and Informatics (CINTI), 2011, pp. 291–296.  </p>
+<p align="justify"> [1] Mohammad Hasanzadeh, Mohammad Reza Meybodi and Saeed Shiry Ghidary, "<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6108517&tag=1"  target="_blank">Improving learning automata based particle swarm: an optimization algorithm</a>," in 2011 IEEE 12th International Symposium on Computational Intelligence and Informatics (CINTI), 2011, pp. 291–296.  </p>
 
